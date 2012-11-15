@@ -1,4 +1,4 @@
-Eloquent_Javascript
+Eloquent Javascript
 ===================
 
-Eloquent_Javascript
+Exercises in Eloquent Javascript.
